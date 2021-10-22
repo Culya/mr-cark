@@ -8,7 +8,7 @@ pip2 install requests
 pip2 install bs4
 git clone https://github.com/Culya/mr-cark
 cd mr-cark
-python2 mr-cark.py
+python2 romz.py
 ````
 #### contact me
 [![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/100002461344178)
